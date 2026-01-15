@@ -55,10 +55,11 @@ Here you’ll find:
 
 ---
 
-## 🎮 Mini Project – Color Click Game
+## 🎮 Mini Project – Color Tap Dash
 
-Check out my interactive browser game:  
-[Play Color Click Game](https://kobilov-dev.github.io/color-click-game/)
+Check out my interactive mini-game:  
+[Play Color Tap Dash](
+https://kobilov-dev.github.io/color-click-game/)
 
 *Built with HTML, SCSS/CSS, and JavaScript. Click the correct color before time runs out!*
 
