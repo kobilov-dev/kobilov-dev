@@ -56,8 +56,9 @@ Here you’ll find:
 ---
 
 <div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/120450/screenshots/11223344/media/ui_animation.png" alt="Modern UI Design" />
+  <img height="200" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Frontend Animation" />
 </div>
+
 
 ---
 
