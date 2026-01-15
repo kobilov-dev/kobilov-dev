@@ -2,59 +2,74 @@
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-<h2 align="center" style="color:#ff8c00;">Frontend-Entwicklung • Sauberer Code • Moderne Web-Oberflächen</h2>
+<h2 align="center">Frontend Development • Clean Code • Modern UI</h2>
 
 ---
 
-## 👋 Hey, ich bin Shokirjon (kobilov-dev)
+## 👋 Hi, I'm Shokirjon (kobilov-dev)
 
-Ich bin **Frontend-Entwickler** mit Fokus auf moderne, strukturierte und performante Benutzeroberflächen.  
-Mich interessiert, wie Design, Code und Benutzererlebnis **sauber zusammenspielen**.
-
----
-
-## 🎯 Aktueller Fokus
-- Frontend-Entwicklung
-- JavaScript & CSS
-- UI-Umsetzung & Struktur
-- Versionskontrolle & Team-Workflows
+I'm a **Frontend Developer** focused on building modern, clean and user-friendly interfaces.  
+I enjoy turning ideas into **interactive web experiences** and continuously improving my skills.
 
 ---
 
-## 🛠️ Tech-Stack
+## 🎯 Current Focus
+- Frontend Development
+- Clean & structured code
+- UI implementation and responsiveness
+- Working with modern frameworks and tools
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" />
 </div>
 
 ---
 
-## 🚀 Was du hier findest
-- Frontend-Projekte & UI-Umsetzungen  
-- Sauber strukturierte Repositories  
-- Lern- & Praxisprojekte aus der Softwareentwicklung  
+## 🚀 Featured Projects
+Here you’ll find:
+- Frontend projects and UI implementations  
+- Practice projects and experiments  
+- Clean and structured repositories  
 
 ---
 
-## 📫 Kontakt
+## 🎮 Mini Project – Interactive Game
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shokirjon-kobilov" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  </a>
-</div>
+To showcase my frontend skills, I’m working on a **small interactive browser game** built with **HTML, CSS/SCSS and JavaScript**.
+
+### 🔹 Project Idea: **Color Dash**
+A fast-paced reaction game where:
+- colors change dynamically
+- the user must click the correct color before time runs out
+- score and difficulty increase over time
+
+**Why this works well for GitHub:**
+- looks great even with few commits
+- clearly shows DOM manipulation & UI logic
+- easy to extend later (animations, levels, sounds)
+
+👉 Repo suggestion:
+
 
