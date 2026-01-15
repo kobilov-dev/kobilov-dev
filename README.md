@@ -1,23 +1,24 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" />
+  <img height="200" src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AcXnMmJ49yCI1JII9MnlZ0Q.gif" alt="UI Animation 2" style="margin-right:10px;" />
+  <img height="200" src="https://cdn.dribbble.com/userupload/22152607/file/original-f7805abb732b3862d1e13ccd0901f2f3.gif" alt="UI Animation 3" />
 </div>
 
-<h2 align="center" style="color:#ff8c00;">Frontend Development • Clean Code • Modern UI</h2>
+<h2 align="center" style="color:#ff8c00;">Frontend-Entwicklung • Sauberer Code • Modernes UI</h2>
 
 ---
 
-## 👋 Hi, I'm Shokirjon (kobilov-dev)
+## 👋 Hallo, ich bin Shokirjon (kobilov-dev)
 
-I'm a **Frontend Developer** focused on building modern, clean, and user-friendly interfaces.  
-I enjoy turning ideas into **interactive web experiences** and continuously improving my skills.
+Ich bin **Frontend-Entwickler** und baue moderne, saubere und benutzerfreundliche Oberflächen.  
+Ich liebe es, Ideen in **interaktive Web-Erlebnisse** umzusetzen und meine Skills stetig zu verbessern.
 
 ---
 
-## 🎯 Current Focus
-- Frontend Development
-- Clean & structured code
-- UI implementation and responsiveness
-- Working with modern frameworks and tools
+## 🎯 Aktueller Fokus
+- Frontend-Entwicklung
+- Sauberer & strukturierter Code
+- UI-Implementierung und Responsiveness
+- Arbeiten mit modernen Frameworks und Tools
 
 ---
 
@@ -47,24 +48,7 @@ I enjoy turning ideas into **interactive web experiences** and continuously impr
 
 ---
 
-## 🚀 Featured Projects
-Here you’ll find:
-- Frontend projects and UI implementations  
-- Practice projects and experiments  
-- Clean and structured repositories  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobilov-dev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobilov-dev&layout=compact&theme=radical" />
-</div>
-
----
-
-## 📫 Contact
+## 📫 Kontakt
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shokirjon-kobilov-00b7b4276/" target="_blank">
@@ -77,9 +61,5 @@ Here you’ll find:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" />
   </a>
 </div>
-
-
-
-
 
 
