@@ -2,13 +2,13 @@
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-<h2 align="center">Frontend Development • Clean Code • Modern UI</h2>
+<h2 align="center" style="color:#ff8c00;">Frontend Development • Clean Code • Modern UI</h2>
 
 ---
 
 ## 👋 Hi, I'm Shokirjon (kobilov-dev)
 
-I'm a **Frontend Developer** focused on building modern, clean and user-friendly interfaces.  
+I'm a **Frontend Developer** focused on building modern, clean, and user-friendly interfaces.  
 I enjoy turning ideas into **interactive web experiences** and continuously improving my skills.
 
 ---
@@ -55,22 +55,52 @@ Here you’ll find:
 
 ---
 
-## 🎮 Mini Project – Interactive Game
+## 🎮 Mini Project – Color Click Game
 
-To showcase my frontend skills, I’m working on a **small interactive browser game** built with **HTML, CSS/SCSS and JavaScript**.
+Below is a **simple interactive browser game** showcasing frontend skills: HTML, SCSS/CSS, and JavaScript.  
+Click the correct color before the timer runs out and score points!
 
-### 🔹 Project Idea: **Color Dash**
-A fast-paced reaction game where:
-- colors change dynamically
-- the user must click the correct color before time runs out
-- score and difficulty increase over time
+<div align="center">
 
-**Why this works well for GitHub:**
-- looks great even with few commits
-- clearly shows DOM manipulation & UI logic
-- easy to extend later (animations, levels, sounds)
+```html
+<style>
+#game-container { text-align:center; margin:20px auto; }
+.color-box { width:100px; height:100px; display:inline-block; margin:10px; cursor:pointer; border-radius:8px; transition: transform 0.1s; }
+.color-box:hover { transform: scale(1.1); }
+#score { font-size: 18px; margin-top: 10px; }
+</style>
 
-👉 Repo suggestion:
+<div id="game-container">
+  <div id="box1" class="color-box"></div>
+  <div id="box2" class="color-box"></div>
+  <div id="box3" class="color-box"></div>
+  <p id="score">Score: 0</p>
+</div>
+
+<script>
+const boxes = [document.getElementById('box1'), document.getElementById('box2'), document.getElementById('box3')];
+let correctIndex = 0;
+let score = 0;
+
+function randomColor() {
+  return '#' + Math.floor(Math.random()*16777215).toString(16);
+}
+
+function setColors() {
+  correctIndex = Math.floor(Math.random()*boxes.length);
+  boxes.forEach((box, i) => box.style.background = randomColor());
+  boxes[correctIndex].style.background = 'orange';
+}
+
+boxes.forEach((box, i) => box.addEventListener('click', () => {
+  if(i===correctIndex) { score++; } else { score--; }
+  document.getElementById('score').innerText = 'Score: ' + score;
+  setColors();
+}));
+
+setColors();
+</script>
+
 
 
 
