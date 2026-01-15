@@ -56,19 +56,20 @@ Here you’ll find:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobilov-dev&layout=compact&theme=radical" />
+  <img height="200" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" />
 </div>
+
 
 
 ---
 
 ## 📫 Contact
-
 <div align="left">
-  <a href="https://www.linkedin.com/feed/in/shokirjon-kobilov" target="_blank">
+  <a href="https://www.linkedin.com/in/shokirjon-kobilov-00b7b4276/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
 </div>
+
 
 
 
