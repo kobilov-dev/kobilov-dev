@@ -55,20 +55,16 @@ Here you’ll find:
 
 ---
 
-## 🎮 Mini Project – Color Tap Dash
-
-Check out my interactive mini-game:  
-[Play Color Tap Dash](
-https://kobilov-dev.github.io/color-click-game/)
-
-*Built with HTML, SCSS/CSS, and JavaScript. Click the correct color before time runs out!*
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/users/120450/screenshots/11223344/media/ui_animation.png" alt="Modern UI Design" />
+</div>
 
 ---
 
 ## 📫 Contact
 
 <div align="left">
-  <a href="https://https://www.linkedin.com/feed//in/shokirjon-kobilov" target="_blank">
+  <a href="https://https://www.linkedin.com/in/shokirjon-kobilov" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
 </div>
