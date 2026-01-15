@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" />
 </div>
 
 <h2 align="center" style="color:#ff8c00;">Frontend Development • Clean Code • Modern UI</h2>
@@ -55,20 +55,29 @@ Here you’ll find:
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kobilov-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobilov-dev&layout=compact&theme=radical" />
 </div>
-
-
 
 ---
 
 ## 📫 Contact
+
 <div align="left">
   <a href="https://www.linkedin.com/in/shokirjon-kobilov-00b7b4276/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
+  <a href="https://t.me/shokirjon_kobilov" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCXXXXXX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" />
+  </a>
 </div>
+
 
 
 
