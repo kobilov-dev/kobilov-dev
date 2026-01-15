@@ -57,49 +57,21 @@ Here you’ll find:
 
 ## 🎮 Mini Project – Color Click Game
 
-Below is a **simple interactive browser game** showcasing frontend skills: HTML, SCSS/CSS, and JavaScript.  
-Click the correct color before the timer runs out and score points!
+Check out my interactive browser game:  
+[Play Color Click Game](https://kobilov-dev.github.io/color-click-game/)
 
-<div align="center">
+*Built with HTML, SCSS/CSS, and JavaScript. Click the correct color before time runs out!*
 
-```html
-<style>
-#game-container { text-align:center; margin:20px auto; }
-.color-box { width:100px; height:100px; display:inline-block; margin:10px; cursor:pointer; border-radius:8px; transition: transform 0.1s; }
-.color-box:hover { transform: scale(1.1); }
-#score { font-size: 18px; margin-top: 10px; }
-</style>
+---
 
-<div id="game-container">
-  <div id="box1" class="color-box"></div>
-  <div id="box2" class="color-box"></div>
-  <div id="box3" class="color-box"></div>
-  <p id="score">Score: 0</p>
+## 📫 Contact
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/shokirjon-kobilov" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+  </a>
 </div>
-
-<script>
-const boxes = [document.getElementById('box1'), document.getElementById('box2'), document.getElementById('box3')];
-let correctIndex = 0;
-let score = 0;
-
-function randomColor() {
-  return '#' + Math.floor(Math.random()*16777215).toString(16);
-}
-
-function setColors() {
-  correctIndex = Math.floor(Math.random()*boxes.length);
-  boxes.forEach((box, i) => box.style.background = randomColor());
-  boxes[correctIndex].style.background = 'orange';
-}
-
-boxes.forEach((box, i) => box.addEventListener('click', () => {
-  if(i===correctIndex) { score++; } else { score--; }
-  document.getElementById('score').innerText = 'Score: ' + score;
-  setColors();
-}));
-
-setColors();
-</script>
+pt>
 
 
 
