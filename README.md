@@ -1,11 +1,10 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation 1" style="margin-right:10px;" />
-  <img height="200" src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AcXnMmJ49yCI1JII9MnlZ0Q.gif" alt="Coding Animation 2" style="margin-right:10px;" />
+  <img height="200" src="https://cdnl.iconscout.com/lottie/premium/thumb/front-end-developer-animation-gif-download-4453020.gif" alt="Coding Animation 1" style="margin-right:10px;" />
+  <img height="200" src="https://cdnl.iconscout.com/lottie/premium/thumb/male-developer-animation-gif-download-4936310.gif" alt="Coding Animation 2" style="margin-right:10px;" />
   <img height="200" src="https://cdn.dribbble.com/userupload/22152607/file/original-f7805abb732b3862d1e13ccd0901f2f3.gif" alt="Coding Animation 3" />
 </div>
 
 <h2 align="center" style="color:#ff8c00;">Frontend-Entwicklung • Sauberer Code • Modernes UI</h2>
-
 ---
 
 ## 👋 Hallo, ich bin Shokirjon (kobilov-dev)
