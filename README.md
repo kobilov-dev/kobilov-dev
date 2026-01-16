@@ -3,22 +3,56 @@
   <img height="200" src="https://cdnl.iconscout.com/lottie/premium/thumb/male-developer-animation-gif-download-4936310.gif" alt="Coding Animation 2" style="margin-right:10px;" />
   <img height="200" src="https://cdn.dribbble.com/userupload/22152607/file/original-f7805abb732b3862d1e13ccd0901f2f3.gif" alt="Coding Animation 3" />
 </div>
-
-<h2 align="center" style="color:#ff8c00;">Frontend-Entwicklung • Sauberer Code • Modernes UI</h2>
----
-
-## 👋 Hallo, ich bin Shokirjon (kobilov-dev)
-
-Ich bin **Frontend-Entwickler** und baue moderne, saubere und benutzerfreundliche Oberflächen.  
-Ich liebe es, Ideen in **interaktive Web-Erlebnisse** umzusetzen und meine Skills stetig zu verbessern.
+<h2 align="center" style="color:#ff8c00;">
+Software Development • Clean Code • Continuous Learning
+</h2>
 
 ---
 
-## 🎯 Aktueller Fokus
-- Frontend-Entwicklung
-- Sauberer & strukturierter Code
-- UI-Implementierung und Responsiveness
-- Arbeiten mit modernen Frameworks und Tools
+## 👋 Hi, I'm Shokirjon (kobilov-dev)
+
+I'm a **junior software developer** at the beginning of my professional journey.  
+After finishing my studies, I actively started programming and continuously improving my skills.
+
+I genuinely enjoy working with **code**, solving problems, and turning ideas into working software.  
+Even though my practical experience is still growing, I have a solid understanding of the fundamentals and a strong motivation to learn more every day.
+
+---
+
+## 🎯 Current Focus
+- General **software development fundamentals**
+- Writing **clean, readable, and structured code**
+- Problem solving & logical thinking
+- Learning different programming paradigms and technologies
+- Building small projects to deepen understanding
+
+---
+
+## 🚀 Learning Mindset
+- Curious and open to **all areas of software development**
+- Constantly learning through practice, projects, and experimentation
+- Not afraid of challenges or new technologies
+- Strong interest in understanding *how things work under the hood*
+
+---
+
+## 🛠️ What I Care About
+- Code quality over shortcuts  
+- Understanding concepts, not just copying solutions  
+- Writing maintainable and understandable code  
+- Growing step by step as a developer
+
+---
+
+## 🌱 Looking Ahead
+I'm open to exploring different paths in software development —  
+from frontend and backend to tools, systems, and everything in between.
+
+If it involves **code**, logic, and problem-solving — I'm excited to learn it.
+
+---
+
+📌 *This GitHub profile documents my learning journey, experiments, and progress as a software developer.*
 
 ---
 
