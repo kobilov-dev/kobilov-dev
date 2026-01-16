@@ -82,18 +82,14 @@ If it involves **code**, logic, and problem-solving — I'm excited to learn it.
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shokirjon-kobilov-00b7b4276/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://t.me/shokirjon_kobilov" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCXXXXXX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" />
-  </a>
-</div>
+- 💼 Open to junior and entry-level opportunities in software development  
+- 🔗 GitHub: https://github.com/kobilov-dev  
+- 💬 Feel free to reach out for collaboration, learning, or interesting projects  
+- 🌍 Open to remote and on-site opportunities
+
+📌 *I’m always happy to connect with developers, recruiters, and tech enthusiasts.*
+
 
 
