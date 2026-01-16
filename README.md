@@ -85,7 +85,8 @@ If it involves **code**, logic, and problem-solving — I'm excited to learn it.
 ## 📫 Contact
 
 - 💼 Open to junior and entry-level opportunities in software development  
-- 🔗 GitHub: https://github.com/kobilov-dev  
+- 🔗 GitHub: https://github.com/kobilov-dev
+- 💼 LinkedIn: https://www.linkedin.com/in/Shokirjon-Kobilov
 - 💬 Feel free to reach out for collaboration, learning, or interesting projects  
 - 🌍 Open to remote and on-site opportunities
 
